@@ -19,9 +19,13 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/dcdeb2dd126049cc83a6b21638be3be1">
+    </a>
+    <a href="https://www.loom.com/share/dcdeb2dd126049cc83a6b21638be3be1">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dcdeb2dd126049cc83a6b21638be3be1-with-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 
@@ -33,11 +37,11 @@ An app that I would like to improve is the ios mail app. The reason is because I
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges that I encountered is just getting used to using Xcode. It is an unfamiliar application for me as I used Visual Studio Code, so it took some getting used to.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Jennefer Campoverde]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
