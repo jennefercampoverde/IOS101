@@ -20,10 +20,10 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/dcdeb2dd126049cc83a6b21638be3be1">
+    <a href="https://www.loom.com/share/c7ccc3b173e3427e82d4362866cd966f">
     </a>
-    <a href="https://www.loom.com/share/dcdeb2dd126049cc83a6b21638be3be1">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dcdeb2dd126049cc83a6b21638be3be1-with-play.gif">
+    <a href="https://www.loom.com/share/c7ccc3b173e3427e82d4362866cd966f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c7ccc3b173e3427e82d4362866cd966f-with-play.gif">
     </a>
   </div>
 
